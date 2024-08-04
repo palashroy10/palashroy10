@@ -1,4 +1,4 @@
-<a><h2> <img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there+👋;I'm+Palash Roy+🤝.;I'm+an+iOS+Developer+⚡;I+love+building+amazing+apps+👨‍💻.">
+<a><h2> <img src="https://readme-typing-svg.herokuapp.com/?duration=4000&lines=Hi+there+%F0%9F%91%8B;%20I%27m+Palash%20Roy+%F0%9F%A4%9D.;I%27m+an+iOS+Developer+%E2%9A%A1;I+love+building+amazing+apps+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB.%22">
   </a></h2></a>
   
 <h3 align="center">A passionate iOS developer</h3>
