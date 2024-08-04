@@ -33,8 +33,8 @@
 ### Connect with me  :coffee:
 <p align="center">
 <!--<a href="https://twitter.com/ganeshrajugalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theroyaiyetin" height="30" width="40" /></a>-->
-<a href="https://www.linkedin.com/in/palashroy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roy aiyetin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15156897/ganesh-raju-galla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17664098" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/palashroy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Palash Roy" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/15156897/ganesh-raju-galla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17664098" height="30" width="40" /></a> -->
 </p>
 
 
@@ -45,7 +45,7 @@
 
  [![Palash's GitHub stats](https://github-readme-stats.vercel.app/api?username=palashroy10&show_icons=true=true&theme=radical&hide=contribs)](https://github.com/palashroy10/github-readme-stats)
  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=palashroy10&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Roy's streak" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=palashroy10&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Palash's streak" /></p>
   
   <p align="right">(<a href="#top">back to top</a>)</p>
 
