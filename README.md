@@ -7,7 +7,7 @@
 
 <!--<p align="left"> <a href="https://twitter.com/ganeshrajugalla" target="blank"><img src="https://img.shields.io/twitter/follow/ganeshrajugalla?logo=twitter&style=for-the-badge" alt="ganeshrajugalla" /></a> </p>-->
 
-### 👋 ![](https://komarev.com/ghpvc/?username=roynkem&color=268f77&label=Hey!!!+Visitor)
+### 👋 ![](https://komarev.com/ghpvc/?username=palashroy10&color=268f77&label=Hey!!!+Visitor)
 
 - 🔭 I’m currently working At **LTIMindtree!**
 
