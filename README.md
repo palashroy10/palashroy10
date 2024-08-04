@@ -23,7 +23,7 @@
 
 - 📫 Reach me via **roy.palash02@gmail.com**
 
-- 📄 Wanna know more about my experiences, check out my [resume](https://github.com/GaneshRajuGalla/Resume)
+- 📄 Wanna know more about my experiences, check out my [resume](https://github.com/palashroy10/resume)
 
 <div align="center"> 
 <i>Random dev jokes for you my friend!</i></br></br>
@@ -45,7 +45,7 @@
 
  [![Palash's GitHub stats](https://github-readme-stats.vercel.app/api?username=palashroy10&show_icons=true=true&theme=radical&hide=contribs)](https://github.com/palashroy10/github-readme-stats)
  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ganeshrajugalla&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Roy's streak" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=palashroy10&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Roy's streak" /></p>
   
   <p align="right">(<a href="#top">back to top</a>)</p>
 
